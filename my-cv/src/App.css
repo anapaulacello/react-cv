@@ -1,4 +1,53 @@
 body{
     background-image: url("https://i.imgur.com/bdRjrrI.jpg%22");
-
+    animation: infiniteScrollBg 70s linear infinite;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
 }
+.divider{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+button {
+  text-align: center;
+  color: white;
+  background-color: transparent;
+  text-align: center;
+  display: inline-block;
+  padding: 15px 40px;
+  border: 1px solid #fff;
+  cursor: pointer;
+  letter-spacing: 2px;
+  position:relative;
+  overflow:hidden;
+  margin: 20px;
+}
+
+button:before {
+  content: "";
+  position: absolute;
+  height: 150px;
+  width: 50px;
+  background : #fff;
+  left: -55px;
+  top: -40px;
+  transform: rotate(37deg);
+  transition: all .3s;
+  opacity: 0.3;
+}
+
+button:hover:before {
+  left:95%;
+}
+ @keyframes infiniteScrollBg {
+    0% {
+      background-position: 50% 0;
+    }
+    100% {
+      background-position: 50% -1000px;
+    }
+  } 

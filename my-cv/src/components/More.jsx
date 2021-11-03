@@ -1,9 +1,10 @@
 import React from "react";
+import "./More.scss"
 
 const More=({languages,habilities})=>{
     return(
         <div className="more">
-            <ul className="languages">
+            <ul>
                 <li>
                 <img src={languages.java_icon} alt=""></img>
                 </li>
@@ -23,7 +24,7 @@ const More=({languages,habilities})=>{
                 <img src={languages.scss_icon} alt=""></img>
                 </li>
             </ul>
-            <ul className="habilities">
+            <ul >
                 <li>
                 <img src={habilities.angular_icon} alt=""></img>
                 </li>
