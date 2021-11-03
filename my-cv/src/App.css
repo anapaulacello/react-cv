@@ -38,10 +38,12 @@ button:before {
   transform: rotate(37deg);
   transition: all .3s;
   opacity: 0.3;
+  padding: 5px;
 }
 
 button:hover:before {
   left:95%;
+  
 }
  @keyframes infiniteScrollBg {
     0% {
