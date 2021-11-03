@@ -24,7 +24,7 @@ function App() {
             educacion
           </button>
           <button onClick={()=>setShowEducation(false)}>
-            educacion
+            experiencia
           </button>
       </div>
     </nav>

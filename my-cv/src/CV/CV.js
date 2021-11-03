@@ -72,21 +72,21 @@ export const CV = {
       },
     ],
     languages: {
-      java_icon: "https://imgur.com/2Cjfi4O.jpg",
-      js_icon: "https://imgur.com/Tx7DVQo.jpg",
-      ts_icon:"https://imgur.com/Tx7DVQo.jpg",
-      html_icon:"https://imgur.com/Tx7DVQo.jpg",
-      css_icon:"https://imgur.com/Tx7DVQo.jpg",
-      scss_icon: "https://imgur.com/Tx7DVQo.jpg",
+      java_icon: "https://imgur.com/kGCy7LA.jpg",
+      js_icon: "https://imgur.com/MiZJj04.jpg",
+      ts_icon:"https://imgur.com/aivRtth.jpg",
+      html_icon:"https://imgur.com/35aWUza.jpg",
+      css_icon:"https://imgur.com/btc5rs1.jpg",
+      scss_icon: "https://imgur.com/RbbRiWB.jpg",
 
     },
     habilities: {
-        angular_icon: "https://imgur.com/2Cjfi4O.jpg",
-        react_icon: "https://imgur.com/Tx7DVQo.jpg",
-        mongo_icon:"",
-        node_icon:"",
-        git_icon:"",
-        insomnia_icon: "Native",
+        angular_icon: "https://imgur.com/pxt18xE.jpg",
+        react_icon: "https://imgur.com/EnNBItc.jpg",
+        mongo_icon:"https://imgur.com/bn2ljmc.jpg",
+        node_icon:"https://imgur.com/FBJHhu0.jpg",
+        git_icon:"https://imgur.com/MQBbx1B.jpg",
+        insomnia_icon: "https://static-00.iconduck.com/assets.00/insomnia-icon-512x512-anx9cld7.png",
   
       }
 }

@@ -1,0 +1,19 @@
+.hero{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    .principal_img{
+        border-radius: 250px;
+        width: 200px;
+        border: solid 2px black;
+    }
+    .media_container{
+        display: flex;
+        flex-direction: row;
+        img{
+            width: 40px;
+            padding: 15px;
+        }
+    }
+}

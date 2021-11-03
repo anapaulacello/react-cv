@@ -25,22 +25,22 @@ const More=({languages,habilities})=>{
             </ul>
             <ul className="habilities">
                 <li>
-                <img src={habilities.java_icon} alt=""></img>
+                <img src={habilities.angular_icon} alt=""></img>
                 </li>
                 <li>
-                <img src={habilities.js_icon} alt=""></img>
+                <img src={habilities.react_icon} alt=""></img>
                 </li>
                 <li>
-                <img src={habilities.ts_icon} alt=""></img>
+                <img src={habilities.mongo_icon} alt=""></img>
                 </li>
                 <li>
-                <img src={habilities.html_icon} alt=""></img>
+                <img src={habilities.node_icon} alt=""></img>
                 </li>
                 <li>
-                <img src={habilities.css_icon} alt=""></img>
+                <img src={habilities.git_icon} alt=""></img>
                 </li>
                 <li>
-                <img src={habilities.scss_icon} alt=""></img>
+                <img src={habilities.insomnia_icon} alt=""></img>
                 </li>
             </ul>
         </div>
