@@ -21,7 +21,7 @@ function App() {
     <nav>
       <div className="divider">
           <button onClick={()=>setShowEducation(true)}>
-            educacion
+            educación
           </button>
           <button onClick={()=>setShowEducation(false)}>
             experiencia
