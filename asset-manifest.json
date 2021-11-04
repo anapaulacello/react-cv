@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/anapaulacello/react-cv/static/css/main.810f21cb.chunk.css",
-    "main.js": "/anapaulacello/react-cv/static/js/main.0c0c7d9d.chunk.js",
-    "main.js.map": "/anapaulacello/react-cv/static/js/main.0c0c7d9d.chunk.js.map",
-    "runtime-main.js": "/anapaulacello/react-cv/static/js/runtime-main.a2f0a49d.js",
-    "runtime-main.js.map": "/anapaulacello/react-cv/static/js/runtime-main.a2f0a49d.js.map",
-    "static/js/2.2c57d843.chunk.js": "/anapaulacello/react-cv/static/js/2.2c57d843.chunk.js",
-    "static/js/2.2c57d843.chunk.js.map": "/anapaulacello/react-cv/static/js/2.2c57d843.chunk.js.map",
-    "index.html": "/anapaulacello/react-cv/index.html",
-    "static/css/main.810f21cb.chunk.css.map": "/anapaulacello/react-cv/static/css/main.810f21cb.chunk.css.map",
-    "static/js/2.2c57d843.chunk.js.LICENSE.txt": "/anapaulacello/react-cv/static/js/2.2c57d843.chunk.js.LICENSE.txt"
+    "main.css": "/react-cv/static/css/main.810f21cb.chunk.css",
+    "main.js": "/react-cv/static/js/main.0c0c7d9d.chunk.js",
+    "main.js.map": "/react-cv/static/js/main.0c0c7d9d.chunk.js.map",
+    "runtime-main.js": "/react-cv/static/js/runtime-main.8e605b95.js",
+    "runtime-main.js.map": "/react-cv/static/js/runtime-main.8e605b95.js.map",
+    "static/js/2.2c57d843.chunk.js": "/react-cv/static/js/2.2c57d843.chunk.js",
+    "static/js/2.2c57d843.chunk.js.map": "/react-cv/static/js/2.2c57d843.chunk.js.map",
+    "index.html": "/react-cv/index.html",
+    "static/css/main.810f21cb.chunk.css.map": "/react-cv/static/css/main.810f21cb.chunk.css.map",
+    "static/js/2.2c57d843.chunk.js.LICENSE.txt": "/react-cv/static/js/2.2c57d843.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2f0a49d.js",
+    "static/js/runtime-main.8e605b95.js",
     "static/js/2.2c57d843.chunk.js",
     "static/css/main.810f21cb.chunk.css",
     "static/js/main.0c0c7d9d.chunk.js"
